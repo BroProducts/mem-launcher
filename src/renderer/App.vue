@@ -1,17 +1,12 @@
 <template>
   <div id="app">
-    <NavigationalTabs/>
     <router-view></router-view>
   </div>
 </template>
 
 <script>
-import NavigationalTabs from '@/components/NavigationalTabs'
   export default {
-    name: 'mem-launcher',
-    components: {
-      NavigationalTabs,
-    },
+    name: 'mem-launcher'
   }
 </script>
 

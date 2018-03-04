@@ -1,2 +1,0 @@
-//user
-export const GET_FIREBASE_AUTH_CHANGE = 'GET_FIREBASE_AUTH_CHANGE';
