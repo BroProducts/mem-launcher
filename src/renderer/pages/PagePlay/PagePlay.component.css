@@ -2,6 +2,10 @@
  padding: 0 20px;
 }
 
+.tabs >>> .md-tabs-navigation{
+  background: transparent;
+}
+
 .tabs >>> .md-tabs-navigation .md-button{
   height: 30px;
 }

@@ -22,9 +22,6 @@ const router = new Router({
       path: '/play',
       name: 'play',
       component: PagePlay,
-      meta: {
-        navTabMain: 'tab-play'
-      },
       children: [
         {
           path: '',
