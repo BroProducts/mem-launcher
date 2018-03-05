@@ -1,6 +1,6 @@
 # mem-launcher
 
-> Launcher for mem game
+> An electron-vue project
 
 #### Build Setup
 

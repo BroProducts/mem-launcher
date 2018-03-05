@@ -1,2 +1,2 @@
-//user
-export const getCurrentUser = 'getCurrentUser';
+//counter
+export const getCounter = 'getCounter'

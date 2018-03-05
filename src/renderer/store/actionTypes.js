@@ -1,2 +1,2 @@
-//user
-export const GET_FIREBASE_AUTH_CHANGE = 'GET_FIREBASE_AUTH_CHANGE';
+//counter
+export const SOME_ASYNC_TASK = 'SOME_ASYNC_TASK'

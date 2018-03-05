@@ -7,12 +7,13 @@
 
 <script>
 import NavigationalTabs from '@/components/NavigationalTabs'
-  export default {
-    name: 'mem-launcher',
-    components: {
-      NavigationalTabs,
-    },
-  }
+
+export default {
+  name: 'mem-launcher',
+  components: {
+    NavigationalTabs,
+  },
+}
 </script>
 
 <style>
