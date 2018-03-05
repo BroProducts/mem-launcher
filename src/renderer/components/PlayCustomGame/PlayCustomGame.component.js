@@ -1,6 +1,6 @@
 export default {
-  name: 'navigational-tabs',
-  components: {},
+  name: 'play-custom-game',
+  components: {}, 
   props: [],
   data () {
     return {

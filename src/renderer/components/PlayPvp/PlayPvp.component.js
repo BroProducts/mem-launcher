@@ -1,6 +1,6 @@
 export default {
-  name: 'navigational-tabs',
-  components: {},
+  name: 'play-pvp',
+  components: {}, 
   props: [],
   data () {
     return {

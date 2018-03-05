@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <NavigationalTabs/>
-    <router-view></router-view>
+    <router-view/>
   </div>
 </template>
 
